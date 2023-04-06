@@ -1,0 +1,58 @@
+Salas:
+
+Estilo clásico: caracterizado por muebles de madera elegantes, telas lujosas y detalles ornamentales.
+Estilo moderno: enfocado en la simplicidad y líneas limpias, con muebles minimalistas y colores neutros.
+Estilo rústico: con detalles en madera, piedra y textiles naturales que crean un ambiente acogedor y cálido.
+Estilo bohemio: con una mezcla ecléctica de patrones, texturas y colores brillantes, creando un ambiente relajado y desenfadado.
+Dormitorios:
+
+Estilo contemporáneo: con líneas limpias, formas geométricas y un enfoque en la funcionalidad.
+Estilo clásico: con mobiliario y accesorios elegantes y ornamentados, creando una atmósfera lujosa.
+Estilo escandinavo: con un enfoque en la simplicidad, la luz natural y la funcionalidad.
+Estilo bohemio: con una mezcla de colores vibrantes, texturas y estampados, creando un ambiente relajado y acogedor.
+Dormitorios infantiles y juveniles:
+
+Estilo nórdico: con colores neutros, muebles funcionales y textiles suaves y cálidos.
+Estilo temático: con decoración temática que refleja los intereses de los niños y jóvenes.
+Estilo bohemio: con una mezcla de colores vibrantes, estampados y texturas que reflejan la personalidad creativa de los niños y jóvenes.
+Estilo clásico: con muebles y detalles elegantes y ornamentados, creando una atmósfera lujosa.
+Baños:
+
+Estilo moderno: con líneas limpias, minimalismo y elementos de diseño innovadores.
+Estilo rústico: con materiales naturales como madera, piedra y cerámica, creando un ambiente cálido y acogedor.
+Estilo minimalista: con un enfoque en la simplicidad, la funcionalidad y el uso de materiales modernos.
+Estilo tradicional: con detalles ornamentados, baldosas decorativas y accesorios clásicos, creando un ambiente elegante.
+Fachadas:
+
+Estilo moderno: con líneas limpias, formas geométricas y materiales modernos como vidrio y acero.
+Estilo colonial: con detalles ornamentados, molduras y colores brillantes, creando un ambiente tradicional.
+Estilo minimalista: con un enfoque en la simplicidad y el uso de materiales modernos como hormigón y vidrio.
+Estilo rústico: con materiales naturales como piedra y madera, creando un ambiente cálido y acogedor.
+Balcones y terrazas:
+
+Estilo tropical: con plantas exóticas, colores brillantes y materiales naturales como ratán y madera.
+Estilo minimalista: con un enfoque en la simplicidad y el uso de materiales modernos como acero y vidrio.
+Estilo bohemio: con una mezcla de colores vibrantes, textiles suaves y elementos decorativos originales.
+Estilo mediterráneo: con colores brillantes, baldosas decorativas y plantas en macetas, creando un ambiente relajado y acogedor.
+
+
+Definiciones de los estilos
+
+
+Estilo nórdico: este estilo se enfoca en la funcionalidad y la simplicidad, utilizando colores claros y neutros como el blanco y el gris, y materiales naturales como la madera y el cuero. Se caracteriza por la presencia de luz natural y la utilización de textiles como mantas y cojines.
+Estilo industrial: este estilo se inspira en la estética de los espacios industriales, utilizando materiales como el metal, el cemento y la madera sin tratar. Se utilizan colores neutros y oscuros como el negro, el gris y el marrón.
+Estilo boho chic: este estilo combina elementos bohemios y románticos con toques modernos, utilizando colores brillantes y contrastantes, y materiales naturales como la madera y el mimbre. Se utilizan textiles con estampados étnicos y florales, y se evita el exceso de ornamentación.
+Estilo farmhouse: este estilo se inspira en la vida en la granja, utilizando materiales rústicos como la madera y la piedra, y colores claros y cálidos como el blanco, el beige y el gris. Se utilizan textiles con estampados a cuadros y rayas, y se evita el exceso de ornamentación.
+Estilo bohemio: este estilo se enfoca en la libertad y la creatividad, utilizando colores brillantes y saturados, y materiales naturales como la madera y el mimbre. Se utilizan textiles con estampados étnicos y florales, y se promueve la mezcla de estilos y épocas.
+Estilo mediterráneo: este estilo se inspira en la costa mediterránea, utilizando colores claros y brillantes como el azul y el blanco, y materiales como la madera y el hierro forjado. Se utilizan textiles con estampados marinos y motivos florales, y se promueve la presencia de plantas y flores.
+Estilo Japandi: este estilo es una mezcla entre la estética minimalista japonesa y la funcionalidad escandinava, utilizando colores claros y neutros como el blanco y el gris, y materiales naturales como la madera y el bambú. Se utiliza la iluminación natural y se promueve la presencia de plantas y elementos naturales.
+Estilo vintage: este estilo se enfoca en la nostalgia y la nostalgia por las épocas pasadas, utilizando objetos y muebles antiguos y de segunda mano. Se utilizan colores apagados y tonos pastel, y se promueve la presencia de elementos decorativos antiguos.
+Estilo clásico: este estilo se enfoca en la elegancia y la sofisticación, utilizando muebles y objetos atemporales y elegantes como los sofás de cuero, las alfombras persas y las lámparas de araña. Se utilizan colores neutros y cálidos, como el beige, el marrón y el crema.
+Estilo minimalista: este estilo se enfoca en la simplicidad y la limpieza visual, utilizando líneas rectas y colores neutros como el blanco, el negro y el gris. Se utilizan muebles y objetos simples y funcionales
+
+Estilo para Salas: El estilo para salas se refiere a la decoración y diseño de la sala de estar, que es un espacio donde se recibe a los invitados y se pasa tiempo en familia. Los estilos para salas pueden variar desde clásicos y elegantes hasta modernos y minimalistas.
+Estilo para Baños: El estilo para baños se refiere a la decoración y diseño de los baños, que son espacios de la casa que pueden ser funcionales o de relajación. 
+Estilo para Dormitorios: El estilo para dormitorios se refiere a la decoración y diseño de los dormitorios, que son espacios personales donde se descansa y se relaja. .
+Estilo para Dormitorios Infantiles: El estilo para dormitorios infantiles se refiere a la decoración y diseño de los dormitorios de los niños, que deben ser acogedores y seguros. Los estilos para dormitorios infantiles pueden variar desde temáticos y coloridos hasta modernos y minimalistas.
+Estilo para Terrazas y Balcones: El estilo para terrazas y balcones se refiere a la decoración y diseño de los espacios exteriores de la casa. 
+Estilo para Jardines: El estilo para jardines se refiere a la decoración y diseño de los jardines, que son espacios verdes que pueden ser funcionales o decorativos. Los estilos para jardines pueden variar desde tropicales y exuberantes hasta minimalistas y zen.
